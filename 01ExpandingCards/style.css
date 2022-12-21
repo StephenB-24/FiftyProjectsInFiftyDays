@@ -20,8 +20,7 @@ body {
 }
 
 .panel {
-  /* Todo: set to cover. See if this breaks on large screens */
-  background-size: auto 100%;
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   height: 80vh;
